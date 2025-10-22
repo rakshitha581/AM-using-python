@@ -5,7 +5,9 @@ To generate and detect the amplitude modulation and demodulation using python co
 EQUIPMENTS REQUIRED
 
 • Computer with i3 Processor
+
 • colab
+
 THEORY:
 
 Modulation can be defined as the process by which the characteristics of carrier wave are varied in accordance with the modulating wave (signal). Modulation is performed in a transmitter by a 
