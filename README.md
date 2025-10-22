@@ -3,9 +3,11 @@ AIM:
 To generate and detect the amplitude modulation and demodulation using python code and to calculate modulation index of AM.
 
 EQUIPMENTS REQUIRED
+
 • Computer with i3 Processor
 • colab
 THEORY:
+
 Modulation can be defined as the process by which the characteristics of carrier wave are varied in accordance with the modulating wave (signal). Modulation is performed in a transmitter by a 
 circuit called a modulator. Need for modulation is as follows: • Avoid mixing of signals • Reduction in antenna height • long distance communication • Multiplexing 
 • Improve the quality of reception • Ease of radiation. Amplitude Modulation is the process of changing the amplitude of a relatively high frequency carrier signal 
@@ -13,6 +15,7 @@ Coefficient of modulation is a term used to describe the amount of amplitude cha
 1.Under modulation : m<1, Em < Ec
 2.Critical modulation: m-1, Em = Ec
 3.Over modulation: m>1, Em > Ec
+
 **ALGORITHM:
 1.Define Parameters First, define the parameters for your signals: • Carrier frequency (fc) • Modulating signal frequency (fm) • Sampling frequency (Fs) • Duration of the signal (T)
 2.Create a time vector based on the sampling frequency and duration.
@@ -24,6 +27,7 @@ Coefficient of modulation is a term used to describe the amount of amplitude cha
 8.Plot the Demodulated Signal Visualize the demodulated signal.
 9.Compare Signals Compare the original modulating signal with the demodulated signal. PROCEDURE • Refer Algorithms and write code for the experiment.
 • Open colab in System • Type your code in New Editor • Save the file • Execute the code • If any Error, correct it in code and execute again • Verify the generated waveform using Tabulation and Model Waveform
+
 **PROGRAM
 ```
 import numpy as np
