@@ -3,13 +3,9 @@ AIM:
 To generate and detect the amplitude modulation and demodulation using python code and to calculate modulation index of AM.
 
 EQUIPMENTS REQUIRED
-
 • Computer with i3 Processor
-
 • colab
-
 THEORY:
-
 Modulation can be defined as the process by which the characteristics of carrier wave are varied in accordance with the modulating wave (signal). Modulation is performed in a transmitter by a 
 circuit called a modulator. Need for modulation is as follows: • Avoid mixing of signals • Reduction in antenna height • long distance communication • Multiplexing 
 • Improve the quality of reception • Ease of radiation. Amplitude Modulation is the process of changing the amplitude of a relatively high frequency carrier signal 
@@ -52,16 +48,12 @@ plt.show()
 ```
 OUTPUT WAVEFORM:
 ![WhatsApp Image 2025-10-22 at 14 09 51_a0b2ac12](https://github.com/user-attachments/assets/4b7ad913-b9a8-471b-af47-c09cb9c97c86)
-
 TABULATION:
 ![WhatsApp Image 2025-10-22 at 14 12 53_7db106b2](https://github.com/user-attachments/assets/bef86a2c-6e88-4ccb-a7b9-4f90dfb28455)
-
 CALCULATION:
-
 ma (Theory) = am/ac =0.5
 ma(Practical) = (Emax-Emin)/(Emax+Emin) =0.5
 ![WhatsApp Image 2025-10-22 at 14 14 50_45a4f21c](https://github.com/user-attachments/assets/63f897ba-731d-4e02-b85b-0c4ed98de97d)
-
 MODEL GRAPH:
 ![WhatsApp Image 2025-10-22 at 14 15 31_483ae234](https://github.com/user-attachments/assets/d82ad359-7059-40b7-a056-ffed08aa0199)
 RESULT:
